@@ -1,0 +1,39 @@
+body {
+	justify-content: center;
+}
+
+/* .logo {
+	text-align: center;
+} */
+.wma2-logo {
+	width: 100%;
+}
+
+.session-message {
+	color: #999;
+	text-align: center;
+	margin: 5px 0;
+}
+
+.register-link {
+	margin-top: 20px;
+}
+.register-link a {
+	color: #134;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+@media(max-width: calc(1000px - 40px)) {
+	.container-M {
+		max-width: calc(100vw - 40px);
+	}
+}
+
+@media(max-width: 800px), (max-height: 500px) {
+	.register-link a {
+		color: #ccc;
+	}
+}
