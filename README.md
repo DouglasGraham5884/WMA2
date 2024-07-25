@@ -1,5 +1,5 @@
 # WMA2
-
+![WMA2](https://github.com/user-attachments/assets/abd51fea-798f-4cd9-855b-aa715464ab11)
 
 ## 更新内容  
 2024/07/25  
